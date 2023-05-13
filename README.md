@@ -1,0 +1,12 @@
+# chatbot-
+##Checksums
+  
+  Here are the SHA256 checksums for the php files:
+ Checksum for /chatbot_project/bot.php: eb3a666a666a63e7fb12f680fe50ecac8cda29c5a44caa3cf0869690a76c5ac6
+Checksum for /chatbot_project/checkSum.php: 601682cc0a4e850469d3ac92bfbd99154f9c36d61795a53e2f02a61575bfcf12
+Checksum for /chatbot_project/db_con.php: 8038b37b234fd9796d867e462c9e84fab53c538606e9df5d2cc592ffdd27b1d5
+Checksum for /chatbot_project/login.php: 693cd0580f73e628349cffe4979c152f17077a497d2d33be13cf96b7b03b977a
+Checksum for /chatbot_project/login2.php: 1dcfde9cef15fa712dde69828c5fc0ed95cf4a4d81fa9e6178fab2e76cfdcdef
+Checksum for /chatbot_project/logout.php: fb0e3fe8b17d17538171b5628520900dfc8151db5ed18bf2e0c657feb596d762
+Checksum for /chatbot_project/message.php: d6664d3012feedf0fc721d67b1f61ce35d3d924ad0489138ca8bf24ee5f08fb7
+Checksum for /chatbot_project/signin.php: 64b2e6f48b8ba7e771f3d93aff9836dd977a74e43ff305d6a98125b2c22f4873
